@@ -1,0 +1,8 @@
+sqlalchemy
+flask-login
+flask
+flask-socketio
+eventlet
+redis
+psycopg2-binary
+gunicorn
